@@ -31,6 +31,7 @@ function startGame() {
   updateComputerGuess();
 }
 
+// hej med dig
 function numberHigh() {
   maxRange = currentGuess - 1;
   updateComputerGuess();
