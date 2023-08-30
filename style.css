@@ -1,0 +1,25 @@
+body {
+  background-color: cadetblue;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.start,
+.low,
+.high,
+.bingo {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  background-color: rgb(89, 184, 189);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
+h1 {
+  text-align: center;
+  margin-top: 10%;
+  padding: 30px;
+  font-family: "Courier New", Courier, monospace;
+}
